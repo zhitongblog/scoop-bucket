@@ -2,7 +2,7 @@
   "version": "0.2.0",
   "description": "Free, fast, cross-platform archiver (ZIP/RAR/7z/tar) — CLI + MCP server",
   "homepage": "https://ziplark.com",
-  "license": "GPL-3.0-only",
+  "license": "MIT",
   "architecture": {
     "64bit": {
       "url": "https://github.com/zhitongblog/ziplark/releases/download/v0.2.0/ziplark-v0.2.0-x86_64-pc-windows-msvc.zip",
