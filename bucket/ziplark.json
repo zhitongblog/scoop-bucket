@@ -1,13 +1,13 @@
 {
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Free, fast, cross-platform archiver (ZIP/RAR/7z/tar) — CLI + MCP server",
   "homepage": "https://ziplark.com",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/zhitongblog/ziplark/releases/download/v0.2.1/ziplark-v0.2.1-x86_64-pc-windows-msvc.zip",
-      "hash": "57cc5456763708f217746840c4d043e4e02adc8db82afb57811dad1a7105e6ea",
-      "extract_dir": "ziplark-v0.2.1-x86_64-pc-windows-msvc"
+      "url": "https://github.com/zhitongblog/ziplark/releases/download/v0.2.2/ziplark-v0.2.2-x86_64-pc-windows-msvc.zip",
+      "hash": "646d3d55e3b3194e7c77dd6c1e26f7901e5b1615760aa982163c408664e439f0",
+      "extract_dir": "ziplark-v0.2.2-x86_64-pc-windows-msvc"
     }
   },
   "bin": [
