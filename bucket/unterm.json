@@ -1,5 +1,5 @@
 {
-    "version": "0.71.18",
+    "version": "0.71.19",
     "description": "Terminal that AI agents can drive over MCP — GUI, unterm-cli and a headless Core.",
     "homepage": "https://github.com/zhitongblog/unterm",
     "license": "MIT",
@@ -10,12 +10,12 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://github.com/zhitongblog/unterm/releases/download/v0.71.18/Unterm-windows-x64-v0.71.18.zip",
-            "hash": "6b5b721d3a2228463fe743d7b208e925ddb3302a17c53f5ad176c0fead319483"
+            "url": "https://github.com/zhitongblog/unterm/releases/download/v0.71.19/Unterm-windows-x64-v0.71.19.zip",
+            "hash": "66aac86b9f3cfd8a40e221b7bb2be70ccdd10cb25a4c8746c509b3cfe6a4fabf"
         },
         "arm64": {
-            "url": "https://github.com/zhitongblog/unterm/releases/download/v0.71.18/Unterm-windows-arm64-v0.71.18.zip",
-            "hash": "0754359eb96e12dbb05ab9d974b174aedd2d83dc8271f7e61ebd9079ff91054c"
+            "url": "https://github.com/zhitongblog/unterm/releases/download/v0.71.19/Unterm-windows-arm64-v0.71.19.zip",
+            "hash": "602f16a9972f71b064c7726dacbcbd0981a6b2e175eaadfbbb49ad51a480df8d"
         }
     },
     "extract_dir": "unterm-release-stage\\unterm",
