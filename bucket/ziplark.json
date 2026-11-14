@@ -1,20 +1,22 @@
 {
-  "version": "0.5.0",
-  "description": "Free, fast, cross-platform archiver (ZIP/RAR/7z/tar/ISO/DEB/RPM/CAB) — CLI + MCP server",
+  "version": "0.6.0",
+  "description": "Free, fast, cross-platform archiver — CLI and MCP server (ZIP, RAR, 7z, tar, zstd, lz4, ISO, PKG)",
   "homepage": "https://ziplark.com",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/zhitongblog/ziplark/releases/download/v0.5.0/ziplark-v0.5.0-x86_64-pc-windows-msvc.zip",
-      "hash": "49d06814f9bd445e83530555901dd4ac968aa3033091ed54571cf40fb8dd168c",
-      "extract_dir": "ziplark-v0.5.0-x86_64-pc-windows-msvc"
+      "url": "https://github.com/zhitongblog/ziplark/releases/download/v0.6.0/ziplark-v0.6.0-x86_64-pc-windows-msvc.zip",
+      "hash": "9f55ee34252a41b55652eeb80ea74515830d94677ad321c9b3d4c62278dc216d",
+      "extract_dir": "ziplark-v0.6.0-x86_64-pc-windows-msvc"
     }
   },
   "bin": [
     "ziplark.exe",
     "ziplark-mcp.exe"
   ],
-  "checkver": "github",
+  "checkver": {
+    "github": "https://github.com/zhitongblog/ziplark"
+  },
   "autoupdate": {
     "architecture": {
       "64bit": {
